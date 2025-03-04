@@ -814,6 +814,10 @@ header nav ul li {
         width: 16px;
     }
 
+    .slide-swipe {
+        z-index: 1;
+    }
+
     .nav-link {
         display: none;
     }
