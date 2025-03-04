@@ -815,7 +815,7 @@ header nav ul li {
     }
 
     .slide-swipe {
-        z-index: 1;
+        z-index: 99;
     }
 
     .nav-link {
