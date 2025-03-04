@@ -819,7 +819,7 @@ header nav ul li {
     }
 
     .slide-swipe {
-        z-inedx: 99;
+        z-index: 99;
     }
 
     .nav-link {
