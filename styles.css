@@ -814,8 +814,12 @@ header nav ul li {
         width: 16px;
     }
 
+    .hero-img {
+        z-index: 0;
+    }
+
     .slide-swipe {
-        z-index: 99;
+        z-inedx: 99;
     }
 
     .nav-link {
